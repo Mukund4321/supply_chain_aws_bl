@@ -3,7 +3,9 @@
     "allow": [
       "Bash(python -c ' *)",
       "Bash(python -m pytest tests/ -v)",
-      "Bash(start cmd *)"
+      "Bash(start cmd *)",
+      "Bash(pip install *)",
+      "Bash(\"C:\\\\Users\\\\Mukund\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python314\\\\python.exe\" -m pip install statsmodels)"
     ]
   }
 }
